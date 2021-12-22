@@ -1,6 +1,6 @@
 # Ergo Scala Skeleton App
 
-This is a project template for getting started on building with Ergo on Scala. Just clone this project and start coding your smart contract.
+This is a cookiecutter (project template) for getting started on building with Ergo on Scala. Just clone this project and start coding your smart contract.
 
 You can use the simulator as unitests to mock states of the blockchain. Check the sample unitest.
 
